@@ -7,6 +7,6 @@
  */
 public class BooleanReturner {
   public static boolean returnTrue() {
-    return false;
+    return true;
   }
 }
