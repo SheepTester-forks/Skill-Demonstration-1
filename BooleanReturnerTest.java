@@ -3,7 +3,7 @@ import org.junit.*;
 
 public class BooleanReturnerTest {
   @Test
-  void testReturnTrue() {
+  public void testReturnTrue() {
     assertTrue("Should return true", BooleanReturner.returnTrue());
   }
 }
